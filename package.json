@@ -1,0 +1,18 @@
+{
+  "name": "downloadworkflow",
+  "version": "1.0.0",
+  "description": "Download automation workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mssql": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/mssql": "^9.1.4"
+  }
+}
